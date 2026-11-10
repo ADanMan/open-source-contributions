@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contribute to a project"
+  short_description: "Research, implement and follow through contributions"
+  default_prompt: "Use $contribute-project: хочу контрибьютить в <проект>."
