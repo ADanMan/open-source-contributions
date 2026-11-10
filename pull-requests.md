@@ -1,6 +1,6 @@
 # Публичные pull requests
 
-Автор @ADanMan. На 2026-11-10 в поиске GitHub — 86 PR.
+Автор @ADanMan. На 2026-11-10 в поиске GitHub — 88 PR.
 
 ## Внешние проекты
 
@@ -19,6 +19,8 @@
 
 ### DrKLO/Telegram
 
+- [#2272 Keep shared media pagination scoped to the active filter](https://github.com/DrKLO/Telegram/pull/2272) · черновик
+- [#2271 Keep shared media pagination open across a cache hole](https://github.com/DrKLO/Telegram/pull/2271) · черновик
 - [#2270 Preserve paragraph breaks when pasting plain text in the rich editor](https://github.com/DrKLO/Telegram/pull/2270) · черновик
 
 ### droidrun/mobilerun
